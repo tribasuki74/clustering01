@@ -1,2 +1,3 @@
+pip install scikit-learn
 pip install k-means-constrained
 pip install folium
